@@ -27,7 +27,7 @@ function draw() {
       
     } else {
       
-      wall.shapeColour = "reds"
+      wall.shapeColour = "red"
 
     }
 
