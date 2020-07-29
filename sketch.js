@@ -8,6 +8,8 @@ function setup() {
 
   speed = random(223,321);
   weight = random(30,52);
+
+  bullet = createSprite(100,100,20,20)
   
 }
 
@@ -32,5 +34,5 @@ function draw() {
     }
 
   }
-
+drawSprites
 }
